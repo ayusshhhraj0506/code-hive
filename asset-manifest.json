@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-hive/static/css/main.d7298439.css",
+    "main.js": "/code-hive/static/js/main.3019f367.js",
+    "index.html": "/code-hive/index.html",
+    "main.d7298439.css.map": "/code-hive/static/css/main.d7298439.css.map",
+    "main.3019f367.js.map": "/code-hive/static/js/main.3019f367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7298439.css",
+    "static/js/main.3019f367.js"
+  ]
+}
